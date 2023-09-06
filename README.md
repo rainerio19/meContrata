@@ -22,14 +22,12 @@ O MeContrata é uma plataforma web inovadora voltada para a área de recrutament
 	<h4>RNF001: Sistema deve ser compatível com os navegadores Chrome e Firefox.</h4>
 	<h4>RNF002: Sistema de ser responsivo para navegadores mobile.</h4>
 
-# Artigo
+# Documentos
 
 [Artigo V0.1](./artigo.pdf)
+[Documento de apresentação](./MeContrata - V&V.pdf)
 
 # Repositórios
 
 * Back-end: [me-contrata-api](https://github.com/RosLuc/me-contrata-api)
 * Front-end: 🚧
-
-# Diagrama de caso de Uso
-<img src="./diagramaUserCase.png"/>
