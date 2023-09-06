@@ -28,8 +28,8 @@ O MeContrata é uma plataforma web inovadora voltada para a área de recrutament
 
 # Repositórios
 
-	* Back-end: [me-contrata-api](https://github.com/RosLuc/me-contrata-api)
-	* Front-end: 🚧
+* Back-end: [me-contrata-api](https://github.com/RosLuc/me-contrata-api)
+* Front-end: 🚧
 
 # Diagrama de caso de Uso
 <img src="./diagramaUserCase.png"/>
