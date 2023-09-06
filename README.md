@@ -15,10 +15,21 @@ O MeContrata é uma plataforma web inovadora voltada para a área de recrutament
 	<h4>RF006: Permitir que usuários do tipo candidatos possam se candidatar nas vagas.</h4>
 	<h4>RF007: Permitir que usuários do tipo candidatos possam desistir da candidatura.</h4>
 	<h4>RF008: Permitir que usuários do tipo empresas possam finalizar vagas.</h4>
+	<h4>RF009: Permitir que usuários possam se cadastrar no sistema como candidato.</h4>
+	<h4>RF010: Permitir que usuários possam se cadastrar no sistema como empresa.</h4>
 <br>
 <h3>Requisitos Não Funcionais</h3>
 	<h4>RNF001: Sistema deve ser compatível com os navegadores Chrome e Firefox.</h4>
 	<h4>RNF002: Sistema de ser responsivo para navegadores mobile.</h4>
+
+# Artigo
+
+[Artigo V0.1](./artigo.pdf)
+
+# Repositórios
+
+	* Back-end: [me-contrata-api](https://github.com/RosLuc/me-contrata-api)
+	* Front-end: 🚧
 
 # Diagrama de caso de Uso
 <img src="./diagramaUserCase.png"/>
