@@ -24,9 +24,9 @@ O MeContrata é uma plataforma web inovadora voltada para a área de recrutament
 
 # Documentos
 
-[Artigo V0.1](./artigo.pdf)
-[Documento de apresentação V2.0](./MeContrata.pdf)
-[Slide de apresentação V2.0](./Slide.pdf)
+* [Artigo V0.1](./artigo.pdf)
+* [Documento de apresentação V2.0](./MeContrata.pdf)
+* [Slide de apresentação V2.0](./Slide.pdf)
 
 # Repositórios
 
