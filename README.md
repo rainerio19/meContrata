@@ -21,11 +21,10 @@ O MeContrata é uma plataforma web inovadora voltada para a área de recrutament
 
 # Documentos
 
-* [Artigo V1.0](./docs/artigo.pdf)
-* [Documento de apresentação V2.0](./docs/MeContrata.pdf)
-* [Slide de apresentação V2.0](./docs/Slide.pdf)
+* [Artigo V3.0](./docs/MeContrata_Artigo.pdf)
+* [Documento de apresentação V3.0](./docs/MeContrata-V&V.pdf)
+* [Slide de apresentação V3.0](./docs/V&V_slide_3_unidade.pdf.pdf)
 
 # Repositórios
 
 * Back-end: [me-contrata-api](https://github.com/RosLuc/me-contrata-api)
-* Front-end: [me-contrata-front](https://github.com/rainerio19/me-contrata-front)
